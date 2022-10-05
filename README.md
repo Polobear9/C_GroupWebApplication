@@ -11,7 +11,7 @@
 <p>［１０月２８日　- １２月２２日］（約２ヶ月ほど）開発は約２ヶ月程の期間があり
 <br>
 ２ヶ月をブロックに分けて各ブロックごとに目標開発達成率を設定し開発を進めて行く予定</p>
-<img src="https://github.com/Polobear9/C_GroupWebApplication/blob/MainProjectBranch/SoftWareCreateCycle_C-Group.drawio.png?raw=true">
+<img src="https://github.com/Polobear9/C_GroupWebApplication/blob/master/SoftWareCreateCycle_C-Group.drawio.png?raw=true">
 
 
 <h3>開発はアジャイル開発（Scruｍ）開発を採用</h3>
@@ -19,7 +19,7 @@
 <p>継続的な改善チーム内でのコミュニケーションの優先順位を意識した柔軟な開発環境を目標とする
 <br>
 プロジェクトの作成する前、毎日１５分ほどのミーティングを行う（プロジェクトメンバーの意思確認)</p>
-<img src="https://github.com/Polobear9/C_GroupWebApplication/blob/MainProjectBranch/the-agile-scrum-framework.png?raw=true">
+<img src="https://github.com/Polobear9/C_GroupWebApplication/blob/master/the-agile-scrum-framework.png?raw=true">
 <h5>Img From : https://www.visual-paradigm.com/scrum/what-is-agile-and-scrum/ </h5>
   
 # Cグループプロジェクト概要（目次）
