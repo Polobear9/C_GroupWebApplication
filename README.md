@@ -15,6 +15,11 @@
 
 
 <h3>開発はアジャイル開発（Scruｍ）開発を採用</h3>
-継続的な改善チーム内でのコミュニケーションの優先順位を意識した柔軟な開発環境を目標とする
+
+<p>継続的な改善チーム内でのコミュニケーションの優先順位を意識した柔軟な開発環境を目標とする
+<br>
+プロジェクトの作成する前、毎日１５分ほどのミーティングを行う（プロジェクトメンバーの意思確認)</p>
+<img src="https://github.com/Polobear9/C_GroupWebApplication/blob/MainProjectBranch/the-agile-scrum-framework.png?raw=true">
+<h5>Img From : https://www.visual-paradigm.com/scrum/what-is-agile-and-scrum/ </h5>
   
 # Cグループプロジェクト概要（目次）
