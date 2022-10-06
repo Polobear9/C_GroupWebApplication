@@ -70,3 +70,7 @@
   Main Text here.<br>
   
 # Cグループプロジェクト概要<br>(コードや、プロジェクト開発写真）
+<h3>MVCのArchitecture Diagramの詳細、設計予想図</h3>
+<h3>Viewレイヤーの構造、デザイン</h3>
+<h3>Controllerレイヤーの構造、データやHtmlのReturn設定</h3>
+<h3>Modelレイヤーのデータベースフィールドや対象設定</h3>
